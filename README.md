@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨•💻 About Me </h3>
 
 
 
@@ -48,18 +48,21 @@
 <h4>🖥 Ops</h4>
 
 &nbsp; ![Shell](https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=Shell&logoColor=ffffff)
+&nbsp; ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=ffffff)
 &nbsp; ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
 &nbsp; ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 &nbsp; ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)
 &nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)
 &nbsp; ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)
 &nbsp; ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=ffffff)
+&nbsp; ![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=Harbor&logoColor=ffffff)
 &nbsp; ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=NGINX&logoColor=ffffff)
 
 
 <h4>☁ Cloud Platform</h4>
 
 &nbsp; ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=Alibaba%20Cloud&logoColor=ffffff)
+&nbsp; ![Baidu Cloud](https://img.shields.io/badge/-Baidu%20Cloud-2932E1?style=flat-square&logo=Baidu&logoColor=ffffff)
 
 
 <h4>🌱 Othre</h4>
@@ -70,22 +73,11 @@
 &nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=ffffff)
 
 
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
+<br/>
 
 
-
-
-<br/><br/>
-
-[![Shivam's GitHub Stars](https://github-readme-stats.vercel.app/api?username=zero-a-projects&show_icons=true)](https://github-readme-stats.vercel.app/api?username=zero-a-projects&show_icons=true)
+![Shivam's GitHub Stars](https://github-readme-stats.vercel.app/api?username=zero-a-projects&show_icons=true&theme=midnight-purple)
 
 <br/>
 
@@ -93,9 +85,14 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero-a-projects&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero-a-projects&layout=compact&theme=midnight-purple)
 
-<br><br>
+<br>
+
+<h3> 📩 Concat Me </h3>
+
+&nbsp; <a href="mailto:kk98.young@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"></a>
+&nbsp; <a href="https://blog.ddoc.top/" target="_blank"><img src="https://img.shields.io/badge/-Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=ffffff"></a>
 
 
 
