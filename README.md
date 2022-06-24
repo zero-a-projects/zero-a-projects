@@ -33,7 +33,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zero-a-projects&show_icons=true)](https://github.com/zero-a-projects)
+[![Shivam's GitHub Stars](https://github-readme-stats.vercel.app/api?username=zero-a-projects&show_icons=true)](https://github-readme-stats.vercel.app/api?username=zero-a-projects&show_icons=true)
 
 <br/>
 
