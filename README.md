@@ -9,6 +9,7 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤓 &nbsp; Very interested in Iot.
 
 
 <h3>🛠 Tech Stack</h3>
