@@ -18,6 +18,7 @@
 
 &nbsp; ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 &nbsp; ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+&nbsp; ![Go](https://img.shields.io/badge/-Go-3776AB?style=flat-square&logo=Go&logoColor=ffffff)
 
 &nbsp; ![Apache Maven](http://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)
 &nbsp; ![Gradle](http://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=ffffff)
@@ -70,9 +71,10 @@
 <h4>🌱 Othre</h4>
 
 &nbsp; ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
+&nbsp; ![Svn](https://img.shields.io/badge/-SVN-F05032?style=flat-square&logo=Svn&logoColor=ffffff)
 &nbsp; ![Gitter](https://img.shields.io/badge/-Gitter-ED1965?style=flat-square&logo=Gitter&logoColor=ffffff)
 &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)
-&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=ffffff)
+&nbsp; ![Regex](https://img.shields.io/badge/-Regex-FC6D26?style=flat-square&logo=Regex&logoColor=ffffff)
 
 
 
